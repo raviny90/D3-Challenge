@@ -7,4 +7,4 @@ Welcome to this project using the D3 techniques we learned,
 * Animated the transitions for circles' locations as well as the range of axes and implemented D3-tip. 
 
 In order to run index.html file click this link
-http://localhost:52330/index.html
+http://localhost:52330/index.html https://raviny90.github.io/D3-challenge/
